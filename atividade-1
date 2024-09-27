@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main(void) {
+  int a=5, b=6, c=7;
+  printf("a soma dos numeros é: %d\n", a+b+c);
+  
+}
